@@ -28,6 +28,8 @@ if (!defined('_PS_VERSION_')) {
     exit;
 }
 
+require_once 'vendor/autoload.php';
+
 class Newmodulesassts extends Module
 {
     public function __construct()
