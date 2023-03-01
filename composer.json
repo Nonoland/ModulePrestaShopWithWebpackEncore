@@ -1,0 +1,16 @@
+{
+    "name": "nolandartois/newmodulesassts",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nolandartois\\Newmodulesassts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NolanA88",
+            "email": "nolan@agence-88.fr"
+        }
+    ],
+    "require": {}
+}
